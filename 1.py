@@ -13,8 +13,8 @@ def greet(name="student"):
 greet()
 greet("Yourname")
     
-def square (n):
-    return n*n
-print(square(10))    
+#def square (n):
+ #   return n*n
+#print(square(10))    
     
     
